@@ -1,2 +1,2 @@
 # ntpd-docker
-Docker image for ntpd server based on centos:7
+Docker image for ntpd server based on ubuntu:16.04
